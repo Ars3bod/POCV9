@@ -5,12 +5,28 @@
             "linkDataArray": [],
             "nodeDataArray": [
                 {
+                    "formKUID": "ed2d5bdd7290412aa92a5bd8fdc7faa8",
+                    "formName": "Form1",
+                    "isStartupForm": false,
+                    "key": "ed2d5bdd7290412aa92a5bd8fdc7faa8",
+                    "loc": "8 24.7544921875",
+                    "thumbnailURL": null
+                },
+                {
                     "formKUID": "fb6e88e7d7c94c68aa13478d43b174b5",
                     "formName": "Login",
                     "isStartupForm": true,
                     "key": "fb6e88e7d7c94c68aa13478d43b174b5",
                     "loc": "-1021.9999999999998 -598.2455078124999",
                     "thumbnailURL": "/assets/Sample/forms/mobile/Login.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "eaf82b510bb74451910fadc3d3a51dc8",
+                    "formName": "SignUp",
+                    "isStartupForm": false,
+                    "key": "eaf82b510bb74451910fadc3d3a51dc8",
+                    "loc": "8 624.7544921875",
+                    "thumbnailURL": null
                 }
             ]
         }
