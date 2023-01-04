@@ -1,0 +1,62 @@
+{
+    "FP": {
+        "iphone": false,
+        "android": false,
+        "ipad": false,
+        "tabrcandroid": false,
+        "spaip": false,
+        "spaan": false,
+        "spabb": false,
+        "spaipad": false,
+        "spaandroidtablet": false,
+        "winphone8": false,
+        "spawinphone8": false,
+        "windows8": false,
+        "spawindowstablet": false,
+        "desktopweb": false
+    },
+    "general": {
+        "codeEditor": {
+            "indentConf": {},
+            "externalEditor": {
+                "displayName": "Sublime"
+            }
+        },
+        "proxyConfig": {},
+        "remoteMACConfig": {},
+        "testRecorder": {
+            "port": 9111
+        },
+        "AllowLockManagementSettings": false,
+        "urls": {},
+        "ANDROID_HOME": "/Users/abdullahalmaimoun/Library/Android/sdk",
+        "bundletoolLocation": "",
+        "JAVA_HOME": "/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home",
+        "donotShowDebugPopup": false,
+        "donotShowFPBinaryDebugPopup": false,
+        "ANDROID_DEBUGGER_PORT": 9222,
+        "ANDROID_FP_DEBUGGER_PORT": 9333
+    },
+    "build": {
+        "nativeLocal": {
+            "postBuildAction": "saveAppBinaryLocally",
+            "platforms": {
+                "iphone": false,
+                "android": true,
+                "ipad": false,
+                "tabrcandroid": false,
+                "universalios": false,
+                "universalandroid": false,
+                "watchos": false,
+                "androidwearos": false
+            }
+        },
+        "removeprintstatements_release": true,
+        "removeprintstatements_debug": false,
+        "support_multiple_ios_workspaces": false
+    },
+    "starter": {
+        "general": {}
+    },
+    "vizTheme": "dark"
+}
